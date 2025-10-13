@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main() {
 // Print my information
-printf("My name: misheck\n"); 
-printf("My age: 25\n");         
-printf("My favorite hobby: playing music\n\n");  
+printf("My name: margaret\n"); 
+printf("My age: 22\n");         
+printf("My favorite hobby: cooking\n\n");  
 // Get user input
 char name[50];
 int age;
